@@ -1,3 +1,6 @@
 # CurlingAI-DUT
-这个是2020年大连理工大学代表队参加第二届中国大学生数字冰壶AI挑战赛时所共同完成的程序。
-本工程涉及逻辑控制，监督学习等知识。
+This project won the national second prize in the 2020 National Digital Curling Artificial Intelligence Challenge Contest(2020年全国大学生数字冰壶人工智能挑战赛).
+
+
+
+
